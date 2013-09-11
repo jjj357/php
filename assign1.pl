@@ -1,33 +1,4 @@
-#########################################################################
-#Assignment Number    1                                                 #
-#Subject Code and Section: OOP344A                                      #
-#Student Name:  MINGTAO LI                                              #
-#Student Number: 016214108                                              #
-#Instructor Name: Danny Abesdris                                        #
-#Due Date: JUNE 17,2011                                                 #
-#Date Submitted: JUNE 17,2011                                           #
-#                                                                       #
-#Student Oath:                                                          #
-#All assignments must include the following statement:                  #
-#                                                                       #
-#"This assignment represents my own work in accordance                  #
-#with Seneca Academic Policy"                                           #
-#                                                                       #
-#Signature: Mingtao Li                                                  #
-#########################################################################
 
-
-#########################################################################
-#Student Assignment Submission Form                                     #
-#==================================                                     #
-#I/we declare that the attached assignment is wholly my own work        #
-#in accordance with Seneca Academic Policy.  No part of this            #
-#assignment has been copied manually or electronically from any         #
-#other source (including web sites) or distributed to other students.   #
-#                                                                       #
-#Name(s)                                          
-#   Mingtao Li                                                 
-#########################################################################
 
 
 #!usr/bin/perl
