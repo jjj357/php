@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" >
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" >
-   <!--Student Name: Mingtao Li
-       Instructor Name: Peter Callaghan
-       Course: INT322
-       Section: A
-       Assignment Number: 3
-       Date: August 1,2011
-
-       I declare with the submission of this assignment that:
-
-       - only I wrote, tested, and debugged its contents.
-
-       - I did not, have not, and will not disclose any of its contents using any means, electronic or non-electronic, to anyone other than the instructor named above.
-
-       - I am aware of Seneca's Academic Policy and the consequences if I do not honour the above declarations or if I otherwise violate Seneca's academic policy. -->
 
 	<head>
 	   <title>Upload files and add data into database</title>
